@@ -1,2 +1,0 @@
-# Abhay Katheria's Terminal
-
